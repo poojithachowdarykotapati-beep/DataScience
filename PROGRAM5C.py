@@ -4,4 +4,5 @@ import numpy as np
 data=np.random.randn(2000)
 sns.histplot(data, kde=True)
 plt.title("Histogram and density")
+plt.savefig("histogram_density.png")
 plt.show()
