@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
-X=[1,2,3,4]
-Y=[10,20,25,30]
+X=[5,9,2,4]
+Y=[30,45,20,50]
 plt.plot(X,Y)
 plt.title("line plot")
 plt.xlabel("X-axis")
