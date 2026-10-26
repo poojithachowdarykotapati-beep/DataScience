@@ -1,5 +1,4 @@
 import pandas as pd
-
 # Creating a dictionary of student data
 student_data = {
     "Roll_No": [101, 102, 103, 104],
